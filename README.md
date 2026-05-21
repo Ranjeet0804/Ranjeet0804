@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **2-TIER-APPLICATION DEPLOYMENT**
 
-- 🌱 I’m currently learning **KUBERNETES**
+- 🌱 I’m currently working on **KUBERNETES**
 
 - 👯 I’m looking to collaborate on **AWS**
 
