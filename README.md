@@ -1,7 +1,7 @@
 <h3 align="center">DEVOPS ENGINEER</h3>
 <img width="200" align="right" src="https://user-images.githubusercontent.com/63135773/184524716-ae71737d-7631-4a93-bcdb-cf1fa13bab30.png" />
 
-- 🔭 I’m currently working on **2-TIER-APPLICATION DEPLOYMENT**
+- 🔭 I’m currently working on **3-TIER-APPLICATION DEPLOYMENT**
 
 - 🌱 I’m currently working on **KUBERNETES**
 
